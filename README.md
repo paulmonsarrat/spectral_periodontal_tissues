@@ -1,1 +1,1 @@
-# spectral_periodontal_tissues
+# Spectral analysis for mineralized tissues
